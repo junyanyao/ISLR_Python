@@ -2,7 +2,7 @@
 
 This repo use Python to re-write the book [**Introduction to Statistical Learning with Application in R**](https://www-bcf.usc.edu/~gareth/ISL/) wittern by James, Witten, Hastie and Tibshirani. <br>It also includes the exercise solutions in Python3
 
-Book Image: ![image](https://github.com/junyanyao/ISLR_Python/blob/master/Dataset/image.png = 250*80)
+Book Image: ![image](https://github.com/junyanyao/ISLR_Python/blob/master/Dataset/image.png)
 
 >* [CHAPTER 2: Statistical Learning](https://github.com/junyanyao/ISLR_Python/blob/master/Ch2%20Statistical%20Learning%20Lab.ipynb)
 >* [CHAPTER 3: Linear Regression](https://github.com/junyanyao/ISLR_Python/blob/master/Ch3%20Linear%20Regression.ipynb)
