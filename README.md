@@ -1,6 +1,6 @@
 # Introduction to Statistical Learning in Python
 
-This repo use Python to re-write the book [**Introduction to Statistical Learning with Application in R**](https://www-bcf.usc.edu/~gareth/ISL/) wittern by James, Witten, Hastie and Tibshirani. <br>It also includes the exercise solutions in Python3
+This repo use Python to re-produce the lab results from the book [**Introduction to Statistical Learning with Application in R**](https://www-bcf.usc.edu/~gareth/ISL/) wittern by James, Witten, Hastie and Tibshirani. <br>It also includes the exercise solutions in Python3
 
 Book Image: ![image](https://github.com/junyanyao/ISLR_Python/blob/master/Dataset/image.png)
 
