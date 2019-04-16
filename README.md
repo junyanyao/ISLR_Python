@@ -11,7 +11,7 @@ Book Image: ![image](https://github.com/junyanyao/ISLR_Python/blob/master/Datase
 >>* Linear Discrimnant Analysis
 >>* Quadratic Discrimnant Analysis
 >>* KNN
->* CHAPTER 5: Resampling Methods
+>* [CHAPTER 5: Resampling Methods](https://github.com/junyanyao/ISLR_Python/blob/master/Ch5%20Resampling%20Methods.ipynb)
 >>* Cross Validation
 >>* Bootstrap
 >* CHAPTER 6: Linear Model Selection and Regularization
@@ -41,3 +41,4 @@ ___
 
 **References:**
 * https://github.com/JWarmenhoven/ISLR-python
+* http://www.science.smith.edu/~jcrouser/SDS293/labs/2016/lab8/Lab%208%20-%20Subset%20Selection%20in%20Python.pdf
