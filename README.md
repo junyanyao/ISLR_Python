@@ -42,3 +42,5 @@ ___
 **References:**
 * https://github.com/JWarmenhoven/ISLR-python
 * http://www.science.smith.edu/~jcrouser/SDS293/labs/2016/lab8/Lab%208%20-%20Subset%20Selection%20in%20Python.pdf
+* https://xavierbourretsicotte.github.io/subset_selection.html#Subset-selection-in-python
+
