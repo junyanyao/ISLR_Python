@@ -14,13 +14,13 @@ Book Image: ![image](https://github.com/junyanyao/ISLR_Python/blob/master/Datase
 >* [CHAPTER 5: Resampling Methods](https://github.com/junyanyao/ISLR_Python/blob/master/Ch5%20Resampling%20Methods.ipynb)
 >>* Cross Validation
 >>* Bootstrap
->* CHAPTER 6: Linear Model Selection and Regularization
+>* [CHAPTER 6: Linear Model Selection and Regularization](https://github.com/junyanyao/ISLR_Python/blob/master/Ch6%20Linear%20Model%20Selection%20and%20Regularization.ipynb)
 >>* Best subset selection
 >>* Cross Valiation
 >>* Ridge/Lasso Regression
 >>* Principal Components Rregression
 >>* Partial Least Squares
->* CHAPTER 7: Moving Beyond Linearity
+>* [CHAPTER 7: Moving Beyond Linearity](https://github.com/junyanyao/ISLR_Python/blob/master/Ch7%20Move%20beyond%20Linearity.ipynb)
 >>* Polynomial Regression and Step Function
 >>* Splines
 >>* GAMs
@@ -43,4 +43,6 @@ ___
 * https://github.com/JWarmenhoven/ISLR-python
 * http://www.science.smith.edu/~jcrouser/SDS293/labs/2016/lab8/Lab%208%20-%20Subset%20Selection%20in%20Python.pdf
 * https://xavierbourretsicotte.github.io/subset_selection.html#Subset-selection-in-python
+* https://jss367.github.io/Exploring-Decision-Trees-in-Python.html#decision-trees-for-classification
+
 
