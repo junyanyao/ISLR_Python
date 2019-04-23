@@ -24,7 +24,7 @@ Book Image: ![image](https://github.com/junyanyao/ISLR_Python/blob/master/Datase
 >>* Polynomial Regression and Step Function
 >>* Splines
 >>* GAMs
->* CHAPTER 8: Tree-based Methods
+>* [CHAPTER 8: Tree-based Methods](https://github.com/junyanyao/ISLR_Python/blob/master/Ch8%20Tree%20Based%20Methods.ipynb)
 >>* Decision Trees
 >>* Bagging and Random Forests
 >>* Boosting
