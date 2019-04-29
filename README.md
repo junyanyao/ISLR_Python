@@ -28,7 +28,7 @@ Book Image: ![image](https://github.com/junyanyao/ISLR_Python/blob/master/Datase
 >>* Decision Trees
 >>* Bagging and Random Forests
 >>* Boosting
->* CHAPTER 9: Support Vector Machines
+>* [CHAPTER 9: Support Vector Machines](https://github.com/junyanyao/ISLR_Python/blob/master/Ch9%20Support%20Vector%20Machine.ipynb)
 >>* Support Vector Classifier
 >>* Support Vectir Machine
 >>* SVM with Multiple Classes
