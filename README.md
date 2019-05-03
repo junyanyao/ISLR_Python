@@ -32,7 +32,7 @@ Book Image: ![image](https://github.com/junyanyao/ISLR_Python/blob/master/Datase
 >>* Support Vector Classifier
 >>* Support Vectir Machine
 >>* SVM with Multiple Classes
->* CHAPETER 10: Unsupervised Learning
+>* [CHAPETER 10: Unsupervised Learning](https://github.com/junyanyao/ISLR_Python/blob/master/Ch10%20Unsupervised%20Learning.ipynb)
 >>* PCA
 >>* Cluster Methods
 
