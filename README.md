@@ -34,6 +34,7 @@ Book Image: ![image](https://github.com/junyanyao/ISLR_Python/blob/master/Datase
 >>* SVM with Multiple Classes
 >* CHAPETER 10: Unsupervised Learning
 >>* PCA
+>>* Cluster Methods
 
 
 
