@@ -46,5 +46,7 @@ ___
 * http://www.science.smith.edu/~jcrouser/SDS293/labs/2016/lab8/Lab%208%20-%20Subset%20Selection%20in%20Python.pdf
 * https://xavierbourretsicotte.github.io/subset_selection.html#Subset-selection-in-python
 * https://jss367.github.io/Exploring-Decision-Trees-in-Python.html#decision-trees-for-classification
+* contour plot reference http://www.adeveloperdiary.com/data-science/how-to-visualize-gradient-descent-using-contour-plot-in-python/
+
 
 
